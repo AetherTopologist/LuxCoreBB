@@ -1,0 +1,11 @@
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "/home/runner/work/_temp/-2109380753/cmake-3.31.6-linux-x86_64/share/cmake-3.31/Modules/CMakeDetermineSystem.cmake:205 (message)"
+      - "CMakeLists.txt:13 (project)"
+    message: |
+      The system is: Linux - 6.8.0-1021-azure - x86_64
+...
